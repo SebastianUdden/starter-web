@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work. It allows users to easil
 
 Sample website with plenty of files for demos
 The readme is important place of information
+Please provide more conceptual infographics
 
 ## Deployment
 - git commit -am ""
@@ -15,3 +16,4 @@ The readme is important place of information
 - Provide more important information below
 
 ## Ending notes
+- Thank you for your cooperation
