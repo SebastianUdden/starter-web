@@ -20,4 +20,4 @@ Please provide more conceptual infographics
 - Thank you for your cooperation
 
 ### Copyright
-2016 SU, All rights reserved
+2016 SU, All rights reserved and Copyrighted
