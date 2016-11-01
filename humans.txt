@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Sebastian -- <role> -- <twitter>
+    Carl -- <role> -- <twitter>
 
 # THANKS
 
-    <name>
+    To everyone
 
 # TECHNOLOGY COLOPHON
 
