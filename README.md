@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. It allows users to easily define important information.
+This repository is for showing how Git and GitHub work. It allows users to easily define important information. This needs more information.
 
 ## Purpose
 
