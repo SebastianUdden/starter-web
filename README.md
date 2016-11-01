@@ -14,6 +14,7 @@ Please provide more conceptual infographics
 
 ## How To Contribute
 - Provide more important information below
+- Forking is a good way to go
 
 ## Ending notes
 - Thank you for your cooperation
