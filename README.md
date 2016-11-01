@@ -12,5 +12,6 @@ The readme is important place of information
 - git push origin master
 
 ## How To Contribute
+- Provide more important information below
 
 ## Ending notes
