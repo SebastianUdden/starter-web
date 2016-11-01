@@ -17,3 +17,6 @@ Please provide more conceptual infographics
 
 ## Ending notes
 - Thank you for your cooperation
+
+### Copyright
+2016 SU
