@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 The readme is important place of information
 
 ## Deployment
-- git commit -m ""
+- git commit -am ""
 - git push origin master
 
 ## How To Contribute
